@@ -1,0 +1,7 @@
+{
+  "name": "TecHub",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
